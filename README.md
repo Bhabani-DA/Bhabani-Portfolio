@@ -1,30 +1,32 @@
-Hi there! 👋 I'm Bhabani
+### Hi there! 👋 I'm Bhabani
 
-🔍 Data Analyst | 📊 Insight Enthusiast | 🔢 Number Cruncher
-Welcome to my GitHub! I'm a passionate Data Analyst who loves uncovering hidden insights and transforming raw data into meaningful stories. Whether it's data visualization, machine learning, or statistical analysis, I'm always eager to explore and innovate.
+🔍 Data Analyst | 📊 Insight Enthusiast | 🔢 Number Cruncher  
+Welcome to my GitHub! I'm a passionate Data Analyst who loves uncovering hidden insights and transforming raw data into meaningful stories. Whether it's data visualization or statistical analysis, I'm always eager to explore and innovate.
 
-🚀 About Me
-- 💡 Turning complex datasets into actionable insights.
-- 📊 Passionate about data visualization and predictive analytics.
-- 🛠️ Skilled in Python, SQL, Excel, Power BI, and Tableau.
+### 🚀 About Me
+
+- 💡 Turning complex datasets into actionable insights.  
+- 📊 Passionate about data visualization and predictive analytics.  
+- 🛠️ Skilled in Python, SQL, Excel, and Power BI.  
 - 🔍 Always learning and exploring new trends in data science.
-- 🌱 Currently working on [insert your latest project here].
-- 🤝 Open to collaboration on data-driven projects!
+- 🤝 Open to collaboration on data-driven projects!  
+<!-- 🌱 Currently working on [insert your latest project here]. -->
 
-🛠️ Tech & Tools
-Python SQL Power BI Excel
 
-📈 GitHub Stats
-GitHub Stats
+### 🛠️ Tech & Tools
 
-📬 Let's Connect!
-- 💼 LinkedIn: [Bhabani Prasad Panda](www.linkedin.com/in/bhabani-prasad-panda-3b3827366)
-- 📧 Email: data.bhabani@gmail.com
-- 🌐 Portfolio: 
+Python  
+SQL  
+Power BI  
+Excel
 
+### 📈 GitHub Stats GitHub Stats
+
+### 📬 Let's Connect!
+
+💼 LinkedIn: [Bhabani Prasad Panda](www.linkedin.com/in/bhabani-prasad-panda-3b3827366)   
+📧 Email: data.bhabani@gmail.com  
+🌐 Portfolio: [Bhabani Portfolio](https://bhabani-da.github.io/bhabani-portfolio/)  
+
+***
 Thanks for visiting! 🚀 Feel free to check out my repositories and connect with me. Let's explore the world of data together!
-
-<!---
-Bhabani-DA/Bhabani-DA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
