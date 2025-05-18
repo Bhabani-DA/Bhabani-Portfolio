@@ -18,7 +18,7 @@ Python SQL Power BI Excel
 GitHub Stats
 
 📬 Let's Connect!
-- 💼 LinkedIn: 
+- 💼 LinkedIn: [Bhabani Prasad Panda](www.linkedin.com/in/bhabani-prasad-panda-3b3827366)
 - 📧 Email: data.bhabani@gmail.com
 - 🌐 Portfolio: 
 
