@@ -26,7 +26,7 @@ Excel
 
 💼 LinkedIn: [Bhabani Prasad Panda](www.linkedin.com/in/bhabani-prasad-panda-3b3827366)   
 📧 Email: data.bhabani@gmail.com  
-🌐 Portfolio: [Bhabani Portfolio](https://bhabani-da.github.io/bhabani-portfolio/)  
+🌐 Portfolio: [Bhabani Portfolio](https://bhabani-da.github.io/Bhabani-Portfolio/)  
 
 ***
 Thanks for visiting! 🚀 Feel free to check out my repositories and connect with me. Let's explore the world of data together!
