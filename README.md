@@ -27,11 +27,11 @@ Excel
 •	Designed dynamic visualizations and selectors, tracking regional trends, payment preferences, and product engagement efficiently.  
 
 #### [Pizza Hut Sale Data Analysis](https://github.com/Bhabani-DA/Pizza-Hut-Sale-Data-Analysis)
-•	Performed SQL-based sales analysis, tracking pizza order trends, revenue, and customer behavior to optimize pricing and menu strategies.
+•	Performed SQL-based sales analysis, tracking pizza order trends, revenue, and customer behavior to optimize pricing and menu strategies.  
 •	Developed advanced SQL queries, analyzing cumulative revenue, top-selling pizza categories, and peak order times for better profitability.
 
 #### [FNP Sale Data Analysis](https://github.com/Bhabani-DA/FNP-Sala-Data-Analysis)
-•	Developed an interactive sales dashboard in MS Excel, leveraging Power Query and data modelling for KPI tracking and dynamic insights.
+•	Developed an interactive sales dashboard in MS Excel, leveraging Power Query and data modelling for KPI tracking and dynamic insights.  
 •	Analyzed seasonal trends and customer behaviors, identifying peak festive demand, top-selling products, and high-order cities.
 
 
