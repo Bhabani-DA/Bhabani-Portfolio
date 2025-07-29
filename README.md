@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Bhabani
 
-🔍 Data Analyst | 📊 Insight Enthusiast | 🔢 Number Cruncher  
+🔍 Aspiring Data Analyst | 📊 Insight Enthusiast | 🔢 Number Cruncher  
 Welcome to my GitHub! I'm a passionate Data Analyst who loves uncovering hidden insights and transforming raw data into meaningful stories. Whether it's data visualization or statistical analysis, I'm always eager to explore and innovate.
 
 ### 🚀 About Me
@@ -15,12 +15,17 @@ Welcome to my GitHub! I'm a passionate Data Analyst who loves uncovering hidden 
 
 ### 🛠️ Tech & Tools
 
-Python  
-SQL  
-Power BI  
-Excel
+- Python  
+- Microsoft SQL Server  
+- Microsoft Power BI  
+- Microsoft Excel
+- Numpy, Pandas, Matplotlib, Seaborn  
 
 ### 📊 Projects
+
+#### [Hotel Booking Cancellation Analysis](https://github.com/Bhabani-DA/Hotel-Booking-Cancellation-Data-Analysis)
+- Explored hotel booking cancellations to uncover key predictors like price sensitivity, lead time, and booking channels using Python and data visualization.  
+- Delivered actionable insights and strategic recommendations to reduce cancellations and improve hotel revenue through targeted retention and dynamic pricing.  
 
 #### [Shopify Sale Data Analysis](https://github.com/Bhabani-DA/Shopify-Sale-Data-Analysis)  
 •	Built an interactive KPI dashboard, analyzing sales performance, customer behavior, and retention for data-driven decisions.  
@@ -47,3 +52,4 @@ Excel
 
 ***
 Thanks for visiting! 🚀 Feel free to check out my repositories and connect with me. Let's explore the world of data together!
+
